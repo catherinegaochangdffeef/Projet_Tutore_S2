@@ -1,2 +1,2 @@
 # Projet_Tutore_S2
-Projet totore au Semerstre 2
+Projet tutoré du Semerstre 2
